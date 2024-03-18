@@ -31,6 +31,7 @@ params:
   author: nodejh
   bio: Software Engineer
   description: My Blog
+  enableAbout: true
   enableRSS: true
   enableComments: true
   enableGoogleAnalytics: true
